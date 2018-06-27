@@ -1,0 +1,17 @@
+{
+  "ConnectionStrings": {
+    "DutchConnectionString": "Server=ASROCK-PC\\SQLEXPRESS;Database=DutchTreatDb;Integrated Security=true;MultipleActiveResultSets=true;"
+  },
+  "DisableSSL":  false,
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning"
+    }
+  },
+  "Tokens": {
+    "Key": "asdlkfjhshfsa;fjhsad;f asjhdf",
+    "Issuer": "localhost",
+    "Audience": "localhost"
+  }
+}
